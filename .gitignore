@@ -1,0 +1,12 @@
+# macOS filesystem
+.DS_Store
+
+# secrets
+.env.local
+
+# devbox
+.devbox/
+
+# npm
+node_modules/
+
